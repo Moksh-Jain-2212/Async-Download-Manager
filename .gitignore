@@ -4,8 +4,8 @@
 # Local environment files
 
 # Editor and operating system files
-.1Mb.dat
-.test-5mb.bin
-.test.bin
+/1Mb.dat
+/test-5mb.bin
+/test.bin
 
 # Keep Cargo.lock tracked: this project is an application.
